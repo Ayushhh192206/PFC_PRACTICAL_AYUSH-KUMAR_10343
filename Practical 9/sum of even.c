@@ -1,5 +1,6 @@
 #include <stdio.h>
-// Ayush kumar RU-25-10343
+// Ayush kumar 10343
+//ERP : RU-25-10343
 int main() {
     int n, i;
     int arr[100];
@@ -19,7 +20,7 @@ int main() {
         }
     }
 
-    printf("Sum of even elements: %d", sum);
+    printf("Sum of even element : %d", sum);
 
     return 0;
 }   
