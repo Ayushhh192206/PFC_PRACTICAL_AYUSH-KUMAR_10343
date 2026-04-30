@@ -25,7 +25,7 @@ int main() {
 }
  
 // output 
-// Enter number of rows and columns: 3 3
+// Enter number of raws and columns: 3 3
 // Enter elements:
 // 1 2 3
 // 4 5 6
